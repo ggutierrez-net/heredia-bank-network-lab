@@ -12,7 +12,7 @@ A hands-on lab simulating the network of a bank with a headquarters, two branche
 - Document incidents with tickets, runbooks and post-mortems
 
 ## Tools
-Cisco Packet Tracer · VirtualBox · Windows Server · Linux · Splunk · Python · Bash · Wireshark · Veeam
+Cisco Packet Tracer · VirtualBox · Windows Server · Linux · Splunk · Python · Bash · Wireshark
 
 ## Progress
 - [ ] Phase 1 – Network design (HQ and branches)

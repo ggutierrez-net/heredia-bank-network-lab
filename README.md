@@ -8,7 +8,7 @@ A hands-on lab simulating the network of a bank with a headquarters, two branche
 - Run Windows Server (Active Directory) and Linux servers
 - Monitor devices and servers with Splunk dashboards and alerts
 - Automate health checks with Python and Bash
-- Back up and restore servers with Veeam
+- Back up and restore servers and run a disaster recovery drill
 - Document incidents with tickets, runbooks and post-mortems
 
 ## Tools
